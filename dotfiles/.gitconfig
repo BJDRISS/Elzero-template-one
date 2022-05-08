@@ -1,0 +1,10 @@
+[user]
+	name = " bj-idriss"
+	email = drs.bendjaber@gmail.com
+[creadential]
+	helper = cache
+[editor]
+	core = subl -n -w
+[alias]
+	st = status
+	cm = commit -m
